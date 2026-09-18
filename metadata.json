@@ -1,0 +1,6 @@
+{
+  "name": "Comotube",
+  "description": "The ultimate social hybrid: Instagram photo feeds, stories, and reels combined with YouTube video streaming, shorts, subscriptions, and creator studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
